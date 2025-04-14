@@ -15,6 +15,8 @@ print(hasil)
 hasil = x >= y
 print(hasil)
 
+hasil = x == y
+print(hasil)
 
 hasil = x != y
 print(hasil)
